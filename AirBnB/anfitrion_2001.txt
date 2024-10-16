@@ -1,0 +1,14 @@
+id=2001
+Nombre=Julio
+ApellidoPaterno=Gomez
+ApellidoMaterno=Rangel
+Edad=30
+DiaNac=27
+MesNac=2
+AñoNac=1991
+RFC=GoRJ910227
+Sexo=M
+Direccion=jajaja
+Usuario=julcegomran
+Password=123456
+TipoAnfitrion=novato

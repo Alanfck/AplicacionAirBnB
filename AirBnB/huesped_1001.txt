@@ -1,0 +1,15 @@
+id=1001
+Nombre=Estefani
+ApellidoPaterno=Caballero
+ApellidoMaterno=Mejia
+Edad=31
+DiaNac=20
+MesNac=11
+AñoNac=1989
+RFC=CaME891120
+Sexo=F
+Direccion=jajajajaja
+Usuario=fani
+Password=anubis
+Reputacion=nuevo
+Lealtad=0

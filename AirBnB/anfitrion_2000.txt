@@ -1,0 +1,14 @@
+id=2000
+Nombre=alan
+ApellidoPaterno=lopez
+ApellidoMaterno=cortes
+Edad=19
+DiaNac=9
+MesNac=5
+AñoNac=2002
+RFC=loca020509
+Sexo=M
+Direccion=calle 9
+Usuario=chock
+Password=chock999
+TipoAnfitrion=novato

@@ -1,0 +1,15 @@
+id=1003
+Nombre=Blanca
+ApellidoPaterno=Cardona
+ApellidoMaterno=Ayala
+Edad=53
+DiaNac=23
+MesNac=7
+AñoNac=1963
+RFC=CaAB630723
+Sexo=F
+Direccion=Monterrey
+Usuario=blanca
+Password=123456
+Reputacion=nuevo
+Lealtad=0

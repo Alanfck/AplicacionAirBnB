@@ -1,0 +1,15 @@
+id=1000
+Nombre=Guillermo
+ApellidoPaterno=Falcon
+ApellidoMaterno=Cardona
+Edad=30
+DiaNac=20
+MesNac=6
+AñoNac=1991
+RFC=FaCG910620
+Sexo=M
+Direccion=jajajaja
+Usuario=jfalcon
+Password=123456
+Reputacion=nuevo
+Lealtad=0

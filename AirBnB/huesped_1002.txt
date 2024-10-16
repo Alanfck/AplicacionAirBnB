@@ -1,0 +1,15 @@
+id=1002
+Nombre=Anubis
+ApellidoPaterno=Falcon
+ApellidoMaterno=Caballero
+Edad=1
+DiaNac=3
+MesNac=5
+AñoNac=2020
+RFC=FaCA200503
+Sexo=F
+Direccion=jesus del monte
+Usuario=anubis
+Password=123456
+Reputacion=nuevo
+Lealtad=0

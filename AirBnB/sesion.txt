@@ -1,0 +1,7 @@
+jfalcon,123456,1000,huesped
+fani,anubis,1001,huesped
+anubis,123456,1002,huesped
+blanca,123456,1003,huesped
+suri,123456,2000,anfitrion
+julcegomran,123456,2001,anfitrion
+chock,chock999,2000,anfitrion
